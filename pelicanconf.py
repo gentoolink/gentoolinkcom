@@ -6,6 +6,8 @@ AUTHOR = u'Ken Mcgonigal'
 SITENAME = u'Gentoolink Web services'
 SITEURL = ''
 
+THEME = 'elegant'
+
 PATH = 'content'
 
 TIMEZONE = 'America/Vancouver'
