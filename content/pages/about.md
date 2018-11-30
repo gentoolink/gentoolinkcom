@@ -1,4 +1,4 @@
-Title: About Me
+Title: About Gentoolink
 Date: 2018-11-28
 Tags: about
 Slug: about

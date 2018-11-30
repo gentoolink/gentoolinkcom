@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Ken Mcgonigal'
+AUTHOR = u'Gentoolink Web Services Inc.'
 SITENAME = u'Gentoolink Web services'
 SITEURL = ''
 
-THEME = 'elegant'
+THEME = 'bootstrap'
 
 PATH = 'content'
 
@@ -22,13 +22,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
+LINKS = (('Twitter', 'http://twitter.com'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
+SOCIAL = (('Twitter', 'https://twitter.com/aegisnetworks'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
