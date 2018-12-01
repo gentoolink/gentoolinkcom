@@ -14,6 +14,13 @@ TIMEZONE = 'America/Vancouver'
 
 DEFAULT_LANG = u'en'
 
+#This is where my blog posts will be kept.
+ARTICLE_PATHS = ['blog']
+
+
+# Delete the output directory, and all of its contents, before generating new files. This can be useful in preventing older, unnecessary files from persisting in your output. However, this is a destructive setting and should be handled with extreme care.
+#DELETE_OUTPUT_DIRECTORY = True
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -22,14 +29,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Twitter', 'http://twitter.com'),
+LINKS = (('Support', 'http://desk.zoho.com/support'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Another Website', '#'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/aegisnetworks'),
-          ('Another social link', '#'),)
+          ('Facebook', 'https://facebook.com/ken.mcgonigal'),
+	('Github', 'https://github.com/gentoolink'))
 
 DEFAULT_PAGINATION = 10
 
