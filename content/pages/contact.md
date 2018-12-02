@@ -5,3 +5,5 @@ Slug: contact-us
 
 Welcome to Gentoolink Web Services! This is the about page. My name is 
 Ken McGonigal. I am the owner of Gentoolink Web Services Inc.
+
+![Penguin](/images/gentoopenguin.jpeg)
