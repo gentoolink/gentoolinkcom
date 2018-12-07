@@ -29,10 +29,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Bookmarks
-LINKS = (('Support', 'http://desk.zoho.com/support'),
-         ('Python.org', 'http://python.org/'),
+LINKS = (('Support', 'http://desk.zoho.com/support/kenmcgonigal'),
+         ('Nextcloud', 'http://nextcloud.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('Another Website', '#'),)
+         ('Inspire Wear Store', 'https://inspirewear.store'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/aegisnetworks'),

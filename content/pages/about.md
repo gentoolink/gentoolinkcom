@@ -14,11 +14,11 @@ but that is going to change in the future.
 
 # Services I provide: 
 
-*Secure static websites
+-Secure static websites
 
-*Nextcloud Installation and support
+-Nextcloud Installation and support
 
-*Custom Web Applications (website with logins and databases are considered
+-Custom Web Applications (website with logins and databases are considered
 applications.) 
 
 ## Let me know what you need!
