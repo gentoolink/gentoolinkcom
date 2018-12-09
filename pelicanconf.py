@@ -11,6 +11,8 @@ BOOTSTRAP_THEME = 'darkly'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PATH = 'content'
 
+FAVICON = 'images/favpenguin.png'
+
 PLUGIN_PATHS = ['/home/gentoolink/websites/pelican-plugins/']
 PLUGINS = ['i18n_subsites']
 

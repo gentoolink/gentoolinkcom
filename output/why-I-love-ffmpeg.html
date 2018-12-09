@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
+    <link href="/images/favpenguin.png" rel="icon">
 
 <link rel="canonical" href="/why-I-love-ffmpeg.html">
 
@@ -109,11 +110,28 @@ Gentoolink Web Services            </a>
 am working with video.  </p>
 <p>You can use it make videos smaller to fit on your website. Youtube uses it
 in the backend sytem.</p>
-<h3>Basic conversion</h3>
-<p>ffmpeg -i input.avi output.mpg</p>
+<h3>Basic conversion from one container to another</h3>
+<div class="highlight"><pre><span></span>ffmpeg -i input.avi output.mpg
+</pre></div>
+
+
 <h3>Make Video Filesize Smaller</h3>
 <p>Scenario: You just finished editing that awesome video and now its too big to add to your website.
 How can you shrink the file size while maintaining the quality and aspect ratio? </p>
+<p>Calculate thit bitrate you need by dividing 1GB by the video length in
+seconds. </p>
+<div class="highlight"><pre><span></span>ffmpeg -i input.mp4 -b 1000000 output.mp4
+</pre></div>
+
+
+<p>You can also change the CRF to 18 or 20. The lower the number the better the
+quality; but 18-20 seems to work well for me.</p>
+<div class="highlight"><pre><span></span>ffmpeg -i input.mp4 -vcodec libx264 -crf 20 output.mp4
+</pre></div>
+
+
+<p>FFMPEG can do many things which are too numerous for one blog post.</p>
+<p>I hope this helps with your next web project. </p>
             </div>
             <!-- /.entry-content -->
         </article>
