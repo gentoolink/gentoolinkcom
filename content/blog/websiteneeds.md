@@ -1,7 +1,7 @@
 Title: What you need when building a website
 Date: 2018-12-08 08:00
 Authors: Ken McGonigal
-category: websites
+category: Blog
 Slug: website-needs
 Summary: What do you need when building a website
 

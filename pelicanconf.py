@@ -6,9 +6,14 @@ AUTHOR = u'Gentoolink Web Services Inc.'
 SITENAME = u'Gentoolink Web services'
 SITEURL = ''
 
-THEME = 'bootstrap'
-
+THEME = 'pelican-bootstrap3'
+BOOTSTRAP_THEME = 'darkly'
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PATH = 'content'
+
+PLUGIN_PATHS = ['/home/gentoolink/websites/pelican-plugins/']
+PLUGINS = ['i18n_subsites']
+
 
 TIMEZONE = 'America/Vancouver'
 
@@ -31,7 +36,7 @@ AUTHOR_FEED_RSS = None
 # Bookmarks
 LINKS = (('Support', 'http://desk.zoho.com/support/kenmcgonigal'),
          ('Nextcloud', 'http://nextcloud.com/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
+         ('My Blog', '/category/blog.html'),
          ('Inspire Wear Store', 'https://inspirewear.store'),)
 
 # Social widget
@@ -43,6 +48,3 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-
-
