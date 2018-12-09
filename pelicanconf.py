@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Gentoolink Web Services Inc.'
-SITENAME = u'Gentoolink Web services'
+SITENAME = u'Gentoolink Web Services'
 SITEURL = ''
 
 THEME = 'pelican-bootstrap3'
@@ -40,7 +40,7 @@ LINKS = (('Support', 'http://desk.zoho.com/support/kenmcgonigal'),
          ('Inspire Wear Store', 'https://inspirewear.store'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/aegisnetworks'),
+SOCIAL = (('Twitter', 'https://twitter.com/gentoolink'),
           ('Facebook', 'https://facebook.com/ken.mcgonigal'),
 	('Github', 'https://github.com/gentoolink'))
 
