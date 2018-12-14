@@ -10,11 +10,17 @@ based out Maple Ridge, British Columbia, Canada.
 ## Services Provided
 
 - Website Hosting
-- Secure Static Websites build to suit
+
+- Secure Mobile Ready Static Websites build to suit
+**Static Websites are more secure than Wordpress sites!**
+## Mobile Ready
+![Mobile Ready](/images/mobile.jpg)
 - Private Email
 - Wordpress Installation and Maintenance
 - Nextcloud Hosting (private Dropbox style file share)
 - Specialize in online video conversion and formats
+###Call me if you need video conversions done!
+
 
 
 
