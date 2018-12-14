@@ -16,19 +16,26 @@ based out Maple Ridge, British Columbia, Canada.
 - Nextcloud Hosting (private Dropbox style file share)
 - Specialize in online video conversion and formats
 
-![Gentoo Penguin](/images/gentoopenguin.jpeg "Gentoo Penguin")
+![Gentoo Penguin](/images/Gentoo.jpg)
 
 
-The Internet has fundamentally changed nearly every aspect of our lives. From how we communicate with friends, family, coworkers, and businesses, a technology that was in its infancy just 25 years ago is now considered indispensable to many people.
+The Internet has fundamentally changed nearly every aspect of our lives.
+ From how we communicate with friends, family, coworkers, and businesses, a technology that was in its infancy just 25 years ago is now considered indispensable to many people.
  When you are running a business this is especially true.
 Are you looking for help to develop your next web app project?
 Your business needs a web presence today. You need more than a Facebook slash page!
 Stop building Zuck’s website and build your own web application.
 Although there certainly is room for a custom static site. I will build what you need and want.
 
-Have you considered your own private social network similar to Facebook? This is a great way to interact in your social club or church group.
+
 I also support installation of several open source software solutions such as Nextcloud for secure file sharing and collaboration.
-Let’s discuss how I can help you with your next project.
+### Let’s discuss how I can help you with your next project.
 
-If you have a business problem; there is a solution for your problem.
+*If you have a business problem; there is a solution for your problem.* 
 
+We Transform Your Vision into Creative Results
+
+## If you have a vision of your website in your imagination I can make a reality.
+
+
+![Get Website](/images/computer_upgrade_cropped_for_banner.png)

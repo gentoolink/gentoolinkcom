@@ -13,6 +13,9 @@ PATH = 'content'
 
 FAVICON = 'images/favpenguin.png'
 
+BANNER = 'images/header.jpg'
+BANNER_ALL_PAGES = True
+
 PLUGIN_PATHS = ['/home/gentoolink/websites/pelican-plugins/']
 PLUGINS = ['i18n_subsites']
 
@@ -36,7 +39,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Bookmarks
-LINKS = (('Support', 'http://desk.zoho.com/support/kenmcgonigal'),
+LINKS = (('Support', 'https://helpdesk.gentoolink.com'),
          ('Nextcloud', 'http://nextcloud.com/'),
          ('My Blog', '/category/blog.html'),
          ('Inspire Wear Store', 'https://inspirewear.store'),)
