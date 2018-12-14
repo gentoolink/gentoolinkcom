@@ -16,7 +16,6 @@ based out Maple Ridge, British Columbia, Canada.
 - Nextcloud Hosting (private Dropbox style file share)
 - Specialize in online video conversion and formats
 
-![Gentoo Penguin](/images/Gentoo.jpg)
 
 
 The Internet has fundamentally changed nearly every aspect of our lives.
@@ -34,7 +33,7 @@ I also support installation of several open source software solutions such as Ne
 *If you have a business problem; there is a solution for your problem.* 
 
 We Transform Your Vision into Creative Results
-
+![idea](/images/idea.png)
 ## If you have a vision of your website in your imagination I can make a reality.
 
 

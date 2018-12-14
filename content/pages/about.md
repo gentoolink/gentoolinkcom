@@ -6,7 +6,9 @@ Slug: about
 
 What's with the penguin theme? I was ispired by the Linux logo and the real penguins.
 
-![Ken McGonigal](/images/ken.jpeg)
+
+![Linux Mascot Penguin](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png "Linux Mascot")
+![Gentoo Penguin](/images/gentoopenguin.jpeg "Gentoo Penguin")
 
 Welcome to Gentoolink Web Services! This is the about page. My name is 
 Ken McGonigal. I am the owner of Gentoolink Web Services Inc. So far I wear most of the hats;
