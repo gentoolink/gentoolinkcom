@@ -9,19 +9,24 @@ based out Maple Ridge, British Columbia, Canada.
 
 ## Services Provided
 
-- Website Hosting
+##  Website Hosting
 
 - Secure Mobile Ready Static Websites build to suit
 **Static Websites are more secure than Wordpress sites!**
 ## Mobile Ready
 ![Mobile Ready](/images/mobile.jpg)
-- Private Email
+### Private Email with your domain
 - Wordpress Installation and Maintenance
+## E-Commerce Solutions
+Check out Inspire Wear Store here at [Inspire Wear Store](https://inspirewear.store)
+This is a real store built by Ken McGonigal.
+
 - Nextcloud Hosting (private Dropbox style file share)
+Check out Demo here: [NextCloud Demo](https://demo.nextcloud.com)
+
 - Specialize in online video conversion and formats
-###Call me if you need video conversions done!
-
-
+###Call me if you need video conversions done for your web project!
+Adding video to a web project can be challenging. Let me help you.
 
 
 The Internet has fundamentally changed nearly every aspect of our lives.
@@ -30,7 +35,9 @@ The Internet has fundamentally changed nearly every aspect of our lives.
 Are you looking for help to develop your next web app project?
 Your business needs a web presence today. You need more than a Facebook slash page!
 Stop building Zuck’s website and build your own web application.
-Although there certainly is room for a custom static site. I will build what you need and want.
+Although there certainly is room for a custom static site. Static websites
+are a better choice if you are concerned about security.
+
 
 
 I also support installation of several open source software solutions such as Nextcloud for secure file sharing and collaboration.

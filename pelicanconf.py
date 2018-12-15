@@ -39,7 +39,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Bookmarks
-LINKS = (('Support', 'https://helpdesk.gentoolink.com'),
+LINKS = (('Helpdesk', 'https://helpdesk.gentoolink.com'),
          ('Nextcloud', 'http://nextcloud.com/'),
          ('My Blog', '/category/blog.html'),
          ('Inspire Wear Store', 'https://inspirewear.store'),)
@@ -56,3 +56,4 @@ DEFAULT_PAGINATION = 10
 
 
 GOOGLE_ANALYTICS = 'UA-63217115-2'
+DISQUS_SITENAME = 'gentoolink-com.'

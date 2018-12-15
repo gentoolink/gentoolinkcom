@@ -18,9 +18,11 @@ There are several vendors who can sell you a domain name. I am recommending Name
 You will need a hosting package. Hosting is where the actual website files live. This place is a computer called a server. These servers are located in very large data centers owned by large companies. I use Hostgator.com where I rent a VPS to host websites for my clients. I also host my own websites on the same server. There are many hosting companies out there to choose from. mainflyerbanner
 
 ## Do I need a SSL Certificate?
-![Let's Encrypt]('https://letsencrypt.org/images/letsencrypt-logo-horizontal.svg')
+![Let's Encrypt](https://letsencrypt.org/images/letsencrypt-logo-horizontal.svg)
 
-You may also need to buy an SSL certificate. If your website requires users to login or buy things from a store then you will need to secure it with a SSL certificate. A SSL certificate is a set of keys to enable encryption between computers communicating on the internet. SSL certificates can vary in price depending on what you need it for. Most people just can buy a $20 SSL certificate without worries.
+You may also need to buy an SSL certificate. You can purchase one depending on
+your needs. Gentoolink Web Services supplies free Let's Encrypt services for 
+your domain when hosted with us. If your website requires users to login or buy things from a store then you will need to secure it with a SSL certificate. A SSL certificate is a set of keys to enable encryption between computers communicating on the internet. SSL certificates can vary in price depending on what you need it for. Most people just can buy a $20 SSL certificate without worries.
 
 ## Do I need a web developer?
 
