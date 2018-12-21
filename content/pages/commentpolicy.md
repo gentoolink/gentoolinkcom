@@ -4,6 +4,7 @@ slug: comment-policy
 Author: Ken McGonigal
 category: blog
 tags: comments,blog,policies
+status: draft
 
 ## Gentoolink Web Services Inc. Comment Policy
 
