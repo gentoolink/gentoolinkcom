@@ -54,6 +54,12 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+# Change the menu order. Stop using categories
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+
 
 GOOGLE_ANALYTICS = 'UA-63217115-2'
 DISQUS_SITENAME = 'gentoolink-com.'
+TWITTER_USERNAME = 'gentoolink'
