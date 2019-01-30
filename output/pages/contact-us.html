@@ -13,13 +13,13 @@
 <link rel="canonical" href="/pages/contact-us.html">
 
         <meta name="author" content="Gentoolink Web Services Inc." />
-        <meta name="description" content="Welcome to Gentoolink Web Services Contact page. Please fill out the form if you would like to contact us. Thank-you. Loading..." />
+        <meta name="description" content="Welcome to Gentoolink Web Services Contact page. Please fill out the form if you would like to contact us. Thank-you! Send Test" />
 
     <meta property="og:site_name" content="Gentoolink Web Services" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Contact Us"/>
     <meta property="og:url" content="/pages/contact-us.html"/>
-    <meta property="og:description" content="Welcome to Gentoolink Web Services Contact page. Please fill out the form if you would like to contact us. Thank-you. Loading..." />
+    <meta property="og:description" content="Welcome to Gentoolink Web Services Contact page. Please fill out the form if you would like to contact us. Thank-you! Send Test" />
 
 
 
@@ -47,7 +47,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a href="/" class="navbar-brand">
-Gentoolink Web Services            </a>
+<img class="img-responsive pull-left gap-right" src="/images/logo.png" width="75x75"/> Gentoolink Web Services            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
@@ -69,19 +69,7 @@ Gentoolink Web Services            </a>
 </div> <!-- /.navbar -->
 
 <!-- Banner -->
-<style>
-	#banner{
-	    background-image:url("/images/header.jpg");
-	}
-</style>
-
-<div id="banner">
-	<div class="container">
-		<div class="copy">
-			<h1>Gentoolink Web Services</h1>
-		</div>
-	</div>
-</div><!-- End Banner -->
+<!-- End Banner -->
 
 <!-- Content Container -->
 <div class="container">
@@ -91,9 +79,15 @@ Gentoolink Web Services            </a>
         <h1 class="entry-title">Contact Us</h1>
         
         <div class="entry-content">
-            <p>Welcome to Gentoolink Web Services Contact page. Please fill out the form if you would
-like to contact us. Thank-you.</p>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSczjhbabHexjIPzyPgI5G_O2tWZX5MtJWlSU222bSsEugeC0A/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            <p>Welcome to Gentoolink Web Services Contact page. 
+Please fill out the form if you would
+like to contact us. Thank-you!</p>
+<form method="POST" action="https://formspree.io/ken@gentoolink.com">
+  <input type="email" name="email" placeholder="Your email here">
+  <textarea name="Your name" placeholder="Your name here"></textarea>
+  <textarea name="message" placeholder="Youre message or question."></textarea>
+  <button type="submit">Send Test</button>
+</form>
         </div>
     </section>
         </div>
@@ -125,6 +119,15 @@ like to contact us. Thank-you.</p>
 </li>
 <!-- End Sidebar/Recent Posts -->
 
+<!-- Sidebar/Twitter Timeline -->
+<li class="list-group-item">
+  <h4><i class="fa fa-twitter fa-lg"></i><span class="icon-label">Latest Tweets</span></h4>
+  <div id="twitter_timeline">
+    <a class="twitter-timeline" data-width="250" data-height="300" data-dnt="true" data-theme="light" href="https://twitter.com/gentoolink">Tweets by gentoolink</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</li>
+<!-- End Sidebar/Twitter Timeline -->
+
 <!-- Sidebar/Links -->
 <li class="list-group-item">
   <h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
@@ -139,7 +142,10 @@ like to contact us. Thank-you.</p>
       <a href="/category/blog.html" target="_blank">My Blog</a>
     </li>
     <li class="list-group-item">
-      <a href="https://inspirewear.store" target="_blank">Inspire Wear Store</a>
+      <a href="https://www.python.org/" target="_blank">Python</a>
+    </li>
+    <li class="list-group-item">
+      <a href="https://www.djangoproject.com/" target="_blank">Django</a>
     </li>
   </ul>
 </li>

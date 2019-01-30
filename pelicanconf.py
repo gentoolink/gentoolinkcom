@@ -11,10 +11,15 @@ BOOTSTRAP_THEME = 'darkly'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PATH = 'content'
 
-FAVICON = 'images/favpenguin.png'
 
+FAVICON = 'images/favpenguin.png'
+SITELOGO = 'images/logo.png'
+SITELOGO_SIZE = '60x60'
 BANNER = 'images/header.jpg'
 BANNER_ALL_PAGES = True
+
+TWITTER_WIDGET_ID= 'twsrc%5Etfw'
+TWITTER_USERNAME = 'gentoolink'
 
 PLUGIN_PATHS = ['/home/gentoolink/websites/pelican-plugins/']
 PLUGINS = ['i18n_subsites']
@@ -42,7 +47,9 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Helpdesk', 'https://helpdesk.gentoolink.com'),
          ('Nextcloud', 'http://nextcloud.com/'),
          ('My Blog', '/category/blog.html'),
-         ('Inspire Wear Store', 'https://inspirewear.store'),)
+         ('Python', 'https://www.python.org/'),
+	 ('Django', 'https://www.djangoproject.com/'),
+	)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/gentoolink'),
@@ -62,4 +69,4 @@ DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
 GOOGLE_ANALYTICS = 'UA-63217115-2'
 DISQUS_SITENAME = 'gentoolink-com.'
-TWITTER_USERNAME = 'gentoolink'
+

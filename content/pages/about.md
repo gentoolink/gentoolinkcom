@@ -5,7 +5,7 @@ Slug: about
 
 
 What's with the penguin theme? I was ispired by the Linux logo and the real penguins.
-
+Gentoo is a species of penguin. 
 
 ![Linux Mascot Penguin](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png "Linux Mascot")
 ![Gentoo Penguin](/images/gentoopenguin.jpeg "Gentoo Penguin")

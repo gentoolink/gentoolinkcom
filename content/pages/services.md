@@ -21,6 +21,8 @@ Nextcloud Files is a self-hosted, open source file sync and share solution desig
 ### Memorial Website
 
 Memorial websites can be great way to immortalize your loved one who has passed.
+I setup an online memorial for my mother when she passed away. See link.
+http://irenecaronmemorial.online/
 
 ### Memorial Tribute video
 

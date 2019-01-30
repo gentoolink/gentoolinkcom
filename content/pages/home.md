@@ -5,9 +5,10 @@ save_as: index.html
 
 
 
-# Are you confused about your web content?
+# Are you confused about the web? 
 ![Solutions to your puzzle](/images/puzzle.jpg)
-### I can take the mystery out of the equation.
+### I can take the mystery out of the equation. 
+There is allot to think about when building a website. 
 
 ### Mobile Ready Web Solutions
 ![Mobile Ready](/images/mobile.jpg)
@@ -18,10 +19,8 @@ save_as: index.html
 Let me help you with setting up an ecommerce solution. The following link
 is a store built and run by me. It is a drop shipping store.
 
-Check out Inspire Wear Store here at [Inspire Wear Store](https://inspirewear.store)
-This is a real store built by Ken McGonigal.
 
-## File Sharing Solutions
+### File Sharing Solutions
 ![File Sharing](/images/computer-files.jpg)
 
 - Nextcloud Hosting (private Dropbox style file share)
@@ -38,8 +37,9 @@ The Internet has fundamentally changed nearly every aspect of our lives.
  From how we communicate with friends, family, coworkers, and businesses, a technology that was in its infancy just 25 years ago is now considered indispensable to many people.
  When you are running a business this is especially true.
 	Are you looking for help to develop your next web app project?
-	Your business needs a web presence today. You need more than a Facebook slash page!
-	Stop building Zuck’s website and build your own web application.
+	Your business needs a web presence today. You need more than a Facebook page!
+	https://www.theglobeandmail.com/report-on-business/small-business/sb-marketing/should-you-use-facebook-for-your-primary-business-website/article30887466/
+	
 
 ### Social Media Setup
 If you do not have a prescence on social media in 2018...you need one for 2019. 
@@ -54,7 +54,7 @@ an alternative to your own website.
 
 We Transform Your Vision into Creative Results
 ![idea](/images/idea.png)
-## If you have a vision of your website in your imagination I can make a reality.
+## If you have a vision of your website in your imagination I can make it a reality.
 
 ## Contact me via our contact page for more information. Or DM on Twitter: @gentoolink
 

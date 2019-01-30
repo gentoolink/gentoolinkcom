@@ -3,7 +3,13 @@ Date: 2018-11-28
 Tags: contact
 Slug: contact-us
 
-Welcome to Gentoolink Web Services Contact page. Please fill out the form if you would
-like to contact us. Thank-you.
+Welcome to Gentoolink Web Services Contact page. 
+Please fill out the form if you would
+like to contact us. Thank-you!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSczjhbabHexjIPzyPgI5G_O2tWZX5MtJWlSU222bSsEugeC0A/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<form method="POST" action="https://formspree.io/ken@gentoolink.com">
+  <input type="email" name="email" placeholder="Your email here">
+  <textarea name="Your name" placeholder="Your name here"></textarea>
+  <textarea name="message" placeholder="Youre message or question."></textarea>
+  <button type="submit">Send Test</button>
+</form>
