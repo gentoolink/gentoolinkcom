@@ -7,7 +7,7 @@ SITENAME = u'Gentoolink Web Services'
 SITEURL = ''
 
 THEME = 'pelican-bootstrap3'
-BOOTSTRAP_THEME = 'darkly'
+BOOTSTRAP_THEME = 'flatly'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PATH = 'content'
 

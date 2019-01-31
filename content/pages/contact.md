@@ -1,15 +1,42 @@
-Title: Contact Us
-Date: 2018-11-28
-Tags: contact
-Slug: contact-us
+Title: Contact
+Slug: contact
 
-Welcome to Gentoolink Web Services Contact page. 
-Please fill out the form if you would
-like to contact us. Thank-you!
+<div class="col-md-12">
+	<header class=jumbotron>
+	<h2>Please fill out form below:</h2>
+	<p>I'd love to hear from you.</p>
+</header>
 
-<form method="POST" action="https://formspree.io/ken@gentoolink.com">
-  <input type="email" name="email" placeholder="Your email here">
-  <textarea name="Your name" placeholder="Your name here"></textarea>
-  <textarea name="message" placeholder="Youre message or question."></textarea>
-  <button type="submit">Send Test</button>
-</form>
+  <form action="https://formspree.io/ken@gentoolink.com" method="POST" />
+
+  <div class="form-group">
+        <label class="col-sm-2 control-label">First Name</label>
+        <div class="col-sm-10">
+          <input class="form-control" id="firstname" type="text" placeholder="First Name" name="First Name: ">
+        </div>
+      </div>
+
+      <div class="form-group">
+          <label class="col-sm-2 control-label">Last Name</label>
+          <div class="col-sm-10">
+            <input class="form-control" id="lastname" type="text" placeholder="Last Name" name="Last Name: ">
+          </div>
+        </div>
+
+
+
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" required>
+        </div>
+
+        <div class="form-group">
+        <label for="text">Message:</label>
+        <textarea input type="text" class="form-control" rows="6" placeholder="Type your message here." name="Message: " required>
+        </textarea>
+        </div>
+
+
+         <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+    </div>

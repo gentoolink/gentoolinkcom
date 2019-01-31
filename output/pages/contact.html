@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-    <title>Authors - Gentoolink Web Services</title>
+    <title>Contact - Gentoolink Web Services</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -10,15 +10,16 @@
 
     <link href="/images/favpenguin.png" rel="icon">
 
+<link rel="canonical" href="/pages/contact.html">
 
         <meta name="author" content="Gentoolink Web Services Inc." />
+        <meta name="description" content="Please fill out form below: I&#39;d love to hear from you. First Name Last Name Email: Message: Submit" />
 
-    <!-- Open Graph tags -->
-        <meta property="og:site_name" content="Gentoolink Web Services" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="Gentoolink Web Services"/>
-        <meta property="og:url" content=""/>
-        <meta property="og:description" content="Gentoolink Web Services"/>
+    <meta property="og:site_name" content="Gentoolink Web Services" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Contact"/>
+    <meta property="og:url" content="/pages/contact.html"/>
+    <meta property="og:description" content="Please fill out form below: I&#39;d love to hear from you. First Name Last Name Email: Message: Submit" />
 
 
 
@@ -53,7 +54,7 @@
                          <li><a href="/pages/about.html">
                              About
                           </a></li>
-                         <li><a href="/pages/contact.html">
+                         <li class="active"><a href="/pages/contact.html">
                              Contact
                           </a></li>
                          <li><a href="/pages/services.html">
@@ -86,8 +87,51 @@
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
-  <h1>Authors on Gentoolink Web Services</h1>
-        <li><a href="/author/ken-mcgonigal.html">Ken McGonigal</a> (3)</li>
+    <section id="content" class="body">
+        <h1 class="entry-title">Contact</h1>
+        
+        <div class="entry-content">
+            <div class="col-md-12">
+    <header class=jumbotron>
+    <h2>Please fill out form below:</h2>
+    <p>I'd love to hear from you.</p>
+</header>
+
+  <form action="https://formspree.io/ken@gentoolink.com" method="POST" />
+
+  <div class="form-group">
+        <label class="col-sm-2 control-label">First Name</label>
+        <div class="col-sm-10">
+          <input class="form-control" id="firstname" type="text" placeholder="First Name" name="First Name: ">
+        </div>
+      </div>
+
+      <div class="form-group">
+          <label class="col-sm-2 control-label">Last Name</label>
+          <div class="col-sm-10">
+            <input class="form-control" id="lastname" type="text" placeholder="Last Name" name="Last Name: ">
+          </div>
+        </div>
+
+
+
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" required>
+        </div>
+
+        <div class="form-group">
+        <label for="text">Message:</label>
+        <textarea input type="text" class="form-control" rows="6" placeholder="Type your message here." name="Message: " required>
+        </textarea>
+        </div>
+
+
+         <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+    </div>
+        </div>
+    </section>
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
