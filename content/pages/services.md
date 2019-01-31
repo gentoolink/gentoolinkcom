@@ -1,5 +1,4 @@
 Title: Services
-Date: 2018-12-15
 slug: services
 category: Services
 
@@ -9,7 +8,7 @@ category: Services
 
 ![Cloud Computing](/images/cloud-computing.jpg)
 
-Nextcloud provides online file sharing without any need of a Microsoft or 
+Nextcloud provides online file sharing without any need of a Microsoft or
 Google licence.
 
 An Enterprise File Sync and Share solution that keeps data under control.
@@ -21,8 +20,8 @@ Nextcloud Files is a self-hosted, open source file sync and share solution desig
 ### Memorial Website
 
 Memorial websites can be great way to immortalize your loved one who has passed.
-I setup an online memorial for my mother when she passed away. See link.
-http://irenecaronmemorial.online/
+I setup an online memorial for my mother when she passed away. See link:
+[Memorial Website](http://irenecaronmemorial.online/)
 
 ### Memorial Tribute video
 
@@ -34,13 +33,15 @@ music.
 ### Wordpress Maintenance
 
 Wordpress maintenance and security. Ask about our plans.
+
 ![Wordpress Solution](/images/wordpress-cube.jpg)
+
 ### E-Commerce Solutions
 
 ![E-Commerce](/images/ecommerce.jpg)
+
 - checkout Inspire Wear Store as an example: [Inspire Wear Store](https://inspirewear.store)
-This is a live store. Test it out by making a purchase! 
+This is a live store. Test it out by making a purchase!
 
 ## Hosting
 Hosting is provided with some services. Extra fees may apply
-![Happy Customer](/images/happy_customer.jpg "Happy Customer")
