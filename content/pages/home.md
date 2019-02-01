@@ -59,9 +59,9 @@ We Transform Your Vision into Creative Results
 
 ![idea](/images/idea.png)
 
-## If you have a vision of your website in your imagination I can make it a reality.
-
-## Contact me via our contact page for more information. 
+## If you have a vision of your business website in your imagination I can make it a reality.
+## Call [604-218-7290](tel:6042187290) <span class="glyphicon glyphicon-earphone"></span>
+## Contact me via our [contact page](/pages/contact.html) for more information. <span class="glyphicon glyphicon-envelope"></span>
 
 ![Get Website](/images/computer_upgrade_cropped_for_banner.png)
 

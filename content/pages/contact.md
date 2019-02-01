@@ -3,7 +3,8 @@ Slug: contact
 
 <div class="col-md-12">
 	<header class=jumbotron>
-	<h2>Please fill out form below:</h2>
+	<h3>Please fill out form below.</h3>
+
 	<p>I'd love to hear from you.</p>
 </header>
 
@@ -23,8 +24,6 @@ Slug: contact
           </div>
         </div>
 
-
-
         <div class="form-group">
           <label for="email">Email:</label>
           <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" required>
@@ -40,3 +39,5 @@ Slug: contact
          <button type="submit" class="btn btn-default">Submit</button>
       </form>
     </div>
+
+## Or call [604-218-7290](tel:6042187290) <span class="glyphicon glyphicon-earphone"></span>
