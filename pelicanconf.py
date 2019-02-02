@@ -14,7 +14,7 @@ PATH = 'content'
 
 FAVICON = 'images/favpenguin.png'
 SITELOGO = 'images/logo.png'
-SITELOGO_SIZE = '60x60'
+SITELOGO_SIZE = '50x50'
 BANNER = 'images/header.jpg'
 BANNER_ALL_PAGES = True
 
@@ -53,8 +53,9 @@ LINKS = (('Helpdesk', 'https://helpdesk.gentoolink.com'),
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/gentoolink'),
-          ('Facebook', 'https://facebook.com/ken.mcgonigal'),
-	('Github', 'https://github.com/gentoolink'))
+          ('Facebook', 'https://facebook.com/gentoolink'),
+	('Github', 'https://github.com/gentoolink'),
+    ('Linkedin', 'https://www.linkedin.com/in/kenmcgonigal/'))
 
 DEFAULT_PAGINATION = 10
 
@@ -69,4 +70,3 @@ DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
 GOOGLE_ANALYTICS = 'UA-63217115-2'
 DISQUS_SITENAME = 'gentoolink-com.'
-
