@@ -1,18 +1,23 @@
-Title: Welcome to Gentoolink.com
+Title: Web and IT Services in Maple Ridge
 Modified: 2019-02-02 10:00
 Tags: website, design, file share, NextCloud, ecommerce, business, video, Maple Ridge
 URL:
 save_as: index.html
 
+## If you have a vision of your business website in your imagination we can make it a reality. Call today for a free estimate.
+## Call [604-218-7290](tel:6042187290) <span class="glyphicon glyphicon-earphone"></span>
+## You can also contact Ken McGonigal via our [contact page](/pages/contact.html) for more information. <span class="glyphicon glyphicon-envelope"></span>
 
-# Are you confused about the web?
+*** We believe your business needs more than just a facebook page to stand out.
+Your business needs to stand out to survive on the internet. A unique website combined
+with search engine optimization (SEO) and social media such as Facebook will make
+you stand out from the crowd. ***
 
-![Solutions to your puzzle](/images/puzzle.jpg)
+  [You need more than a Facebook page.](https://www.theglobeandmail.com/report-on-business/small-business/sb-marketing/should-you-use-facebook-for-your-primary-business-website/article30887466/)
 
-### I can take the mystery out of the equation.
 
-There is allot to think about when building a website. Your website is a reflection
-of your business on the internet.
+![Get Your Website today](/images/computer_upgrade_cropped_for_banner.png)
+
 
 ### Mobile Ready Web Solutions
 
@@ -26,30 +31,24 @@ is a store built and run by me. It is a drop shipping store.
 
 ### File Sharing Solutions
 
-![File Sharing](/images/computer-files.jpg)
+Are you tired of Dropbox, Google and Microsoft holding the keys to your data?
+NextCloud is a private file share and sync solution. With NextCloud you control
+where your data is stored and how it shared.
 
-- Nextcloud Hosting (private Dropbox style file share)
+![Nextcloud File Sharing](/images/computer-files.jpg)
+
+Nextcloud Hosting (private Dropbox style file share)
 
 Check out Demo here: [NextCloud Demo](https://demo.nextcloud.com)
-I also support installation of several open source software solutions such as Nextcloud for secure file sharing and collaboration. You are in control of your own data.
+We also support installation of several open source software solutions such as Nextcloud for secure file sharing and collaboration. You are in control of your own data.
 
 ### Video Solutions
 
-- Specialize in online video conversion and formats to fit your website.
+We specialize in online video, video conversion and formats to fit your website.
+People love video.
 
 ###Call me if you need video conversions done for your web project!
 
-The Internet has fundamentally changed nearly every aspect of our lives.
- From how we communicate with friends, family, coworkers, and businesses, a technology that was in its infancy just 25 years ago is now considered indispensable to many people.
- When you are running a business this is especially true.
-	Are you looking for help to develop your next web app project?
-	Your business needs a web presence today.
-  [You need more than a Facebook page.](https://www.theglobeandmail.com/report-on-business/small-business/sb-marketing/should-you-use-facebook-for-your-primary-business-website/article30887466/)
-
-### Social Media Setup
-If you do not have a prescence on social media in 2018...you need one for 2019.
-Facebook is part of that solution;but not the only solution. A Facebook page should not be
-an alternative to your own website.
 
 ### Let’s discuss how I can help you with your next project.
 
@@ -59,10 +58,6 @@ We Transform Your Vision into Creative Results
 
 ![idea](/images/idea.png)
 
-## If you have a vision of your business website in your imagination I can make it a reality.
-## Call [604-218-7290](tel:6042187290) <span class="glyphicon glyphicon-earphone"></span>
-## Contact me via our [contact page](/pages/contact.html) for more information. <span class="glyphicon glyphicon-envelope"></span>
 
-![Get Website](/images/computer_upgrade_cropped_for_banner.png)
 
 ***Gentoolink Web Services Inc. is owned and operated by Ken McGonigal and is based out Maple Ridge, British Columbia, Canada.***

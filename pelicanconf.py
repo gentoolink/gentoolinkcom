@@ -6,6 +6,11 @@ AUTHOR = u'Gentoolink Web Services Inc.'
 SITENAME = u'Gentoolink Web Services'
 SITEURL = ''
 
+MENUITEMS = (('Services', 'services.html'),
+            ('Contact', 'contact.html'),
+            ('About', 'about.html'),
+            )
+
 THEME = 'pelican-bootstrap3'
 BOOTSTRAP_THEME = 'spacelab'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
@@ -14,9 +19,10 @@ PATH = 'content'
 
 FAVICON = 'images/favpenguin.png'
 SITELOGO = 'images/logo.png'
-SITELOGO_SIZE = '100'
+SITELOGO_SIZE = '75'
 BANNER = 'images/header.jpg'
 BANNER_ALL_PAGES = True
+BOOTSTRAP_NAVBAR_INVERSE = True
 
 TWITTER_WIDGET_ID= 'twsrc%5Etfw'
 TWITTER_USERNAME = 'gentoolink'

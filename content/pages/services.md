@@ -32,8 +32,7 @@ Nextcloud Files is a self-hosted, open source file sync and share solution desig
 ### Memorial Website
 
 Memorial websites can be great way to immortalize your loved one who has passed.
-I setup an online memorial for my mother when she passed away.
-[Memorial Website](http://irenecaronmemorial.online/)
+
 
 ### Memorial Tribute Video
 
@@ -63,3 +62,8 @@ This is a live store. Test it out by making a purchase!
 ## Hosting
 
 Hosting and [Let's Encrypt SSL](https://letsencrypt.org/) is provided with hosting services. ***Extra fees may apply.***
+
+### Social Media Setup
+If you do not have a prescence on social media in 2018...you need one for 2019.
+Facebook is part of that solution;but not the only solution. A Facebook page should not be
+an alternative to your own website.
