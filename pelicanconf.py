@@ -7,19 +7,21 @@ SITENAME = u'Gentoolink Web Services'
 SITEURL = ''
 
 THEME = 'pelican-bootstrap3'
-BOOTSTRAP_THEME = 'flatly'
+BOOTSTRAP_THEME = 'spacelab'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PATH = 'content'
 
 
 FAVICON = 'images/favpenguin.png'
 SITELOGO = 'images/logo.png'
-SITELOGO_SIZE = '50x50'
+SITELOGO_SIZE = '100'
 BANNER = 'images/header.jpg'
 BANNER_ALL_PAGES = True
 
 TWITTER_WIDGET_ID= 'twsrc%5Etfw'
 TWITTER_USERNAME = 'gentoolink'
+
+ADDTHIS_PROFILE = 'ra-5c23e1341a5fcaa5'
 
 PLUGIN_PATHS = ['/home/gentoolink/websites/pelican-plugins/']
 PLUGINS = ['i18n_subsites']
@@ -69,4 +71,4 @@ DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
 
 GOOGLE_ANALYTICS = 'UA-63217115-2'
-DISQUS_SITENAME = 'gentoolink-com.'
+DISQUS_SITENAME = 'https-gentoolink-com'

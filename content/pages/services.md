@@ -2,6 +2,8 @@ Title: Services
 slug: services
 Tags: website, maintenance,wordpress,Nextcloud,file,Sync,hosting,cloud,memorials,static
 category: Website Services
+URL:
+save_as: services.html
 
 ![Website Creation](/images/computer-files.jpg)
 

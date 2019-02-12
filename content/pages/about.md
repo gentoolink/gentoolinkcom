@@ -1,8 +1,9 @@
 Title: About
 Modified: 2018-11-28
-Tags: about,gentoolink,website,maple ridge
+Tags: about,gentoolink,website,maple ridge,Services
 Slug: about
-
+URL:
+save_as: about.html
 
 Welcome to Gentoolink Web Services! My name is
 Ken McGonigal. I am a former police officer. I also do IT contracts for such clients as

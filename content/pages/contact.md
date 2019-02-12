@@ -1,5 +1,7 @@
 Title: Contact
 Slug: contact
+URL:
+save_as: contact.html
 
 <div class="col-md-12">
 	<header class=jumbotron>
