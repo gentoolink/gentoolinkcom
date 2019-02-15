@@ -6,6 +6,10 @@ AUTHOR = u'Gentoolink Web Services Inc.'
 SITENAME = u'Gentoolink Web Services'
 SITEURL = ''
 
+ABOUT_ME = ' is owned and operated by Ken McGonigal.'
+AVATAR = 'images/kenmcgonigal.jpg'
+
+
 MENUITEMS = (('Services', 'services.html'),
             ('Contact', 'contact.html'),
             ('About', 'about.html'),
@@ -22,7 +26,8 @@ SITELOGO = 'images/logo.png'
 SITELOGO_SIZE = '75'
 BANNER = 'images/header.jpg'
 BANNER_ALL_PAGES = True
-BOOTSTRAP_NAVBAR_INVERSE = True
+BANNER_SUBTITLE = 'Only those who attempt the absurd can achieve the impossible. --Albert Einstein'
+BOOTSTRAP_NAVBAR_INVERSE = False
 
 TWITTER_WIDGET_ID= 'twsrc%5Etfw'
 TWITTER_USERNAME = 'gentoolink'
