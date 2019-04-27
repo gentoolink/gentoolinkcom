@@ -5,11 +5,7 @@ category: Website Services
 URL:
 save_as: services.html
 
-![Website Creation](/images/computer-files.jpg)
 
-I can create a website for you. I am currently specializing in secure static websites.
-The important thing is you have a website that fits your needs. Let's get together
-to discuss your needs. I am based out of Maple Ridge, BC.
 
 ### Cloud Computing with Nextcloud Hosting
 
@@ -29,35 +25,30 @@ Your employees need to have easy access to their files, photos and documents to 
 
 Nextcloud Files is a self-hosted, open source file sync and share solution designed to be easy-to-use and highly secure.
 
-### Memorial Website
+### Mobile Ready Web Solutions
 
-Memorial websites can be great way to immortalize your loved one who has passed.
+![Mobile Ready](/images/mobile.jpg)
+
+### File Sharing Solutions
+
+Are you tired of Dropbox, Google and Microsoft holding the keys to your data?
+NextCloud is a private file share and sync solution. With NextCloud you control
+where your data is stored and how it shared.
+
+![Nextcloud File Sharing](/images/computer-files.jpg)
+
+Nextcloud Hosting (private Dropbox style file share)
+
+Check out Demo here: [NextCloud Demo](https://demo.nextcloud.com)
+We also support installation of several open source software solutions such as Nextcloud for secure file sharing and collaboration. You are in control of your own data.
 
 
-### Memorial Tribute Video
+![Website Creation](/images/computer-files.jpg)
 
-I can create a tribute video for your loved one who has passed. This is better than
-a Power Point. I will make a video from your digital or scanned photographs and set it to
-music. This video can then be shared on a unique website or social media.
+I can create a website for you. I am currently specializing in secure static websites. Static websites are more secure and cost less to host than database driven websites like WordPress.
 
-> Online memorials allow participation in the grieving process from a distance and at any time of the day or night; in the view of some sociologists, such public displays of grief are important for emotional recovery after bereavement. They provide a communications outlet for continued grieving when more formal events have ended. Availability of inexpensive or free online space allows grievers to include extensive content such as stories and discussions. Unlike some other types of memorials, they have little environmental impact.  --Wikipedia
 
-Although there are free options a unique website dedicated to your loved one's memory
-is an option.
-
-### Wordpress Maintenance
-
-Wordpress hosting, maintenance and security. WordPress needs maintenance such as updating
-plugins and WordPress versions.
-
-![Wordpress Solution](/images/wordpress-cube.jpg)
-
-### E-Commerce Solutions
-
-![E-Commerce](/images/ecommerce.jpg)
-
-Checkout Inspire Wear Store as an example: [Inspire Wear Store](https://inspirewear.store)
-This is a live store. Test it out by making a purchase!
+The important thing is you have a website that fits your needs. Let's get together to discuss your needs. I am based out of Maple Ridge, BC.
 
 ## Hosting
 
@@ -67,3 +58,17 @@ Hosting and [Let's Encrypt SSL](https://letsencrypt.org/) is provided with hosti
 If you do not have a prescence on social media in 2018...you need one for 2019.
 Facebook is part of that solution;but not the only solution. A Facebook page should not be
 an alternative to your own website.
+
+
+
+### Memorial Website
+
+Memorial websites can be great way to immortalize your loved one who has passed.
+
+Although there are free options a unique website dedicated to your loved one's memory is an option.
+
+### Memorial Tribute Video
+
+I can create a tribute video for your loved one who has passed. This is better than a Power Point. I will make a video from your digital or scanned photographs and set it to music. This video can then be shared on a unique website or social media.
+
+> Online memorials allow participation in the grieving process from a distance and at any time of the day or night; in the view of some sociologists, such public displays of grief are important for emotional recovery after bereavement. They provide a communications outlet for continued grieving when more formal events have ended. Availability of inexpensive or free online space allows grievers to include extensive content such as stories and discussions. Unlike some other types of memorials, they have little environmental impact.  --Wikipedia

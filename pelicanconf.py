@@ -6,7 +6,7 @@ AUTHOR = u'Gentoolink Web Services Inc.'
 SITENAME = u'Gentoolink Web Services'
 SITEURL = ''
 
-ABOUT_ME = ' is owned and operated by Ken McGonigal.'
+ABOUT_ME = 'Owned and operated by Ken McGonigal. Located in Maple Ridge, BC Canada'
 AVATAR = 'images/kenmcgonigal.jpg'
 
 
@@ -23,7 +23,7 @@ PATH = 'content'
 
 FAVICON = 'images/favpenguin.png'
 SITELOGO = 'images/logo.png'
-SITELOGO_SIZE = '75'
+SITELOGO_SIZE = '70'
 BANNER = 'images/header.jpg'
 BANNER_ALL_PAGES = True
 BANNER_SUBTITLE = 'Only those who attempt the absurd can achieve the impossible. --Albert Einstein'
