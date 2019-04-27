@@ -45,21 +45,26 @@ We also support installation of several open source software solutions such as N
 
 ![Website Creation](/images/computer-files.jpg)
 
+###Secure Websites
+
 I can create a website for you. I am currently specializing in secure static websites. Static websites are more secure and cost less to host than database driven websites like WordPress.
 
+Most small businesses only require a brochure style website. These type of websites usually
+do not require frequent updates so are quite suitable for static website architecture.
 
-The important thing is you have a website that fits your needs. Let's get together to discuss your needs. I am based out of Maple Ridge, BC.
+The important thing is you have a website that fits your needs. And everyone's needs
+are unique. Let's get together to discuss your needs. I am based out of Maple Ridge, BC.
 
-## Hosting
+#### Hosting
 
 Hosting and [Let's Encrypt SSL](https://letsencrypt.org/) is provided with hosting services. ***Extra fees may apply.***
 
-### Social Media Setup
+#### Social Media Setup
 If you do not have a prescence on social media in 2018...you need one for 2019.
 Facebook is part of that solution;but not the only solution. A Facebook page should not be
 an alternative to your own website.
 
-
+##Pay triubute to a loved one who has passed with a dedicated website
 
 ### Memorial Website
 
